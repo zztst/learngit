@@ -8,4 +8,4 @@ bug.
 
 new
 
-old.
+new and old
